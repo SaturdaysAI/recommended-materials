@@ -12,7 +12,7 @@ Udacity has several good courses, including [JavaScript Basics](https://www.udac
 
 [Khan Academy](https://www.khanacademy.org/computing) is an excellent resource for complete beginners. We love their introduction to Computer Science as well as their JavaScript-based programming course.
 
-[Codecademy](https://www.codecademy.com/) is another good resource for complete beginners. We recommend [HTML & CSS](https://www.codecademy.com/learn/web), [Make a Website](https://www.codecademy.com/en/skills/make-a-website), [JavaScript](https://www.codecademy.com/learn/javascript) and the [YouTube API](https://www.codecademy.com/en/tracks/youtube).
+[Codecademy](https://www.codecademy.com/) is another good resource for complete beginners. We recommend [HTML & CSS](https://www.codecademy.com/learn/learn-html-css), [Make a Website](https://www.codecademy.com/en/skills/make-a-website), [JavaScript](https://www.codecademy.com/learn/learn-javascript) and the [YouTube API](https://www.codecademy.com/en/tracks/youtube).
 
 [Eloquent Javascript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf) is a great self-contained introduction to Javascript. The first 4 chapters are relatively easy to follow. Subsequent chapters cover more advanced topics.
 
